@@ -1,0 +1,12 @@
+Passar o repositório do GitHub para o local:
+
+- Code > Clone > HTTPS > link > Abrir explorador de arquivos > Botão direito do mouse > Git Bash Here > git clone link
+*git status para verificar se tudo funcionou corretamente.
+
+Adicionar alterações no repositório local:
+
+git add .
+
+Passar repositório local para o GitHub:
+
+git commit -m"digitar aqui a alteração que foi feita" > git push origin main
