@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
-Este repositório foi criado para o desafio de projeto sobre Git/GitHub. 
+Este repositório foi criado para o desafio de projeto sobre Git/GitHub. A intenção do projeto é armazenar minhas anotações sobre os assuntos estudados no Bootcamp **"Orange Tech + | BackEnd"** da Dio para me familiarizar com o GitHub.
 
 > Estarão presentes aqui:
 >
