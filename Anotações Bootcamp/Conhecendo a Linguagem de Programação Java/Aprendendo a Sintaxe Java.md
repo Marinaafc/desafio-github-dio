@@ -22,8 +22,39 @@
 - A linguagem é constituída de arquivos java (classes) e essas classes estão ao nosso dispor. É preciso conhecê-las para dominar a linguagem.  
 - System.out.print(){}.  
 - Todas as classes precisam estar no diretório src.
-## Anatomia das Classes 2
+## Anatomia das Classes 2  
+> #### Padrão de Nomenclatura
+> - **Arquivo.java:** Começa sempre com letra maiúscula. Palavra composta - segunda palavra começa com letra maiúscula também. Ex: ```Calculadora.java```, ```CalculadoraCientifica.java```.  
+> - **Nome da classe no arquivo:** A classe deve possuir o mesmo nome do arquivo.java, exemplo:
+> ```
+> // arquivo CalculadoraCientifica
+>
+> public class CalculadoraCientifica {
+>
+>}
+> ```
+- Se o nome da classe for diferente do nome do arquivo, a IDE acusa um erro de escrita.
+> **- Nome de variável:** Primeira letra SEMPRE minúscula. Se for nome composto, primeira da 1ª palavra minúscula e primeira da 2ª palavra (as próximas palavras também) maiúscula, ex: ``` ano ``` e ``` anoFabricacao ```. O nome dessa prática é "camelCase".
+> - No entanto, existe uma regra adicional para variáveis imutáveis, como mostra no código abaixo (Conveção: totalmente letra maiúscula, separado por underline):
+> ```
+> final String BR = "Brasil"
+> String BR = "Brasil"
+> final double PI = 3.14
+> double PI = 3.14
+> int ESTADOS_BRASILEIRO = 27
+> int ANO_2000 = 2000
+> ```
+> - Se a variável começa com letra maiúscula, já se pressupõe que ela recebeu o "final", ou seja, é uma variável imutável.
+> #### Regras para declaração de variáveis:
+> - Deve conter apenas letras, _ (underline), $ ou os números de 0 a 9.
+> - Deve se iniciar com uma letra (preferencialmente), underline ou $, jamais com número.
+> - Deve iniciar com letra minúscula (boa prática)
+> - Não pode conter espaços
+> - Não pode usar palavras-chave da linguagem
+> - O nome deve ser único dentro de um escopo
 ## Anatomia das Classes 3
 ## Anatomia das Classes 4
 ## Anatomia das Classes 5
 ## Anatomia das Classes 6
+# Tipos e Variáveis
+## Tipos e Variáveis 1
