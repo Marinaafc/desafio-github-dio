@@ -53,6 +53,32 @@
 > - Não pode usar palavras-chave da linguagem
 > - O nome deve ser único dentro de um escopo
 ## Anatomia das Classes 3
+#### Declarando variáveis e métodos
+Como identificar declaração de variáveis e métodos no programa? 
+- Declarar uma variável em Java segue sempre a seguinte estrutura:
+```
+// Estrutura
+
+Tipo nomeBemDefinido = Atribuição (opcional em alguns casos)
+
+// Exemplo
+
+int idade = 23;
+double altura = 1.62;
+Dog spike; //observe que aqui a variável spike não tem valor
+```
+- Declarando métodos em Java segue uma estrutura bem simples:
+```
+// Estrutura
+
+TipoRetorno NomeObjetivoNoInfinitivo Parametro(s)
+
+// Exemplo
+
+int somar (int numeroUm, int numero2)
+
+String formatarCep (long cep)
+```
 ## Anatomia das Classes 4
 ## Anatomia das Classes 5
 ## Anatomia das Classes 6
