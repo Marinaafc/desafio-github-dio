@@ -14,7 +14,7 @@
 ## Anatomia das Classes 1  
 - **Escrita de código de um programa** - Composição de palavras pré-definifas pela linguagem com expressões utilizadas para determinar nome de arquivos, classes, atributos e métodos.  
 - Existem projetos que recomendam que toda a implementação de seu programa seja escrita em inglês.  
-- A classe precisa está compatível com o nome do arquivo. Dentro da classe pode haver várias estruturas de composição (códigos, métodos, variáveis, expressões).  
+- A classe precisa estar compatível com o nome do arquivo. Dentro da classe pode haver várias estruturas de composição (códigos, métodos, variáveis, expressões).  
 - Grande parte das classes (99%) inciará com a expressão "public class". O nome da classe deve ser intuitivo.  
 - P/ classe, a primeira letra deve ficar maiúscula, ex: MinhaClasse. P/ variáveis, minúscula: minhaVariável.  
 - Se a classe for executável, ela precisa ter o método main. public static void main (String [] args){}.  
