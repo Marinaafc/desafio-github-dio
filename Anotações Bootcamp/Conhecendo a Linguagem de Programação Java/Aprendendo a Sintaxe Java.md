@@ -80,7 +80,14 @@ int somar (int numeroUm, int numero2)
 String formatarCep (long cep)
 ```
 ## Anatomia das Classes 4
+
+####Identação  
+- Termo utilizado para escrever o código do programa de forma hierárquica, facilitando assim a visualização e entendimento do programa.
+- Em Python é utilizado a nível de estrutura, mas não é a realidade do Java.
 ## Anatomia das Classes 5
+- **Organizando arquivos** - À medida que o sistema vai evoluindo, surgem novos arquivos (código fonte) na estrutura de arquivos do projeto. Isso exige que seja realizada uma organização desses arquivos através de pacotes (packages).
+- **Convenção dos subdiretórios** - Prefixos aplicados nos projetos: Comercial = com; Organizacional = org; opensource = org ou opensource.
+  - com(prefixo).hypertech(nome da empresa).notification.app/modelo/utilidade(pacote).
 ## Anatomia das Classes 6
 # Tipos e Variáveis
 ## Tipos e Variáveis 1
