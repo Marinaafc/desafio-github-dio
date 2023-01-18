@@ -118,5 +118,11 @@ calcularImprimir(){} // Há algo de errado neste método, ele deveria ter uma ú
 > - Objetos;
 > - Diferença entre variável e constante.
 ## Tipos e Variáveis 2
+Diretório dio-java-basico
 ## Tipos e Variáveis 3
+**Tipos de Dados** - No Java, existem algumas palavras reservadas para a representação dos tipos de dados básicos que precisam ser manipulados para a construção de programas. Esses tipos de dados são conhecidos como tipos primitivos (Primitive Types).
+> Os oito tipos primitivos em Java são:  
+> int, byte, short, long, float, double, boolean e char - esses tipos não são considerados objetos, portanto representam valores brutos. São armazenados diretamente na pilha de memória (Memory stack).
+#### Tabela de Tipos Primitivos e seus valores
+
 ## Tipos e Variáveis 4
