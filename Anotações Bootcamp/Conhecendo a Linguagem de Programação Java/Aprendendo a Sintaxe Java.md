@@ -109,6 +109,14 @@ calcularImprimir(){} // Há algo de errado neste método, ele deveria ter uma ú
 - O nome do último método estava sendo dúbio. Precisar ser "calcular" ou "imprimir".
 # Tipos e Variáveis
 ## Tipos e Variáveis 1
+- Nesta etapa, será explorado os tipos de dados numéricos inteiros, numéricos decimais, lógicos, caracteres e suas aplicabilidades. 
+- Também será explicada a diferença entre definição de variáveis e constantes.
+> #### Assuntos
+> - Numéricos inteiros e decimais;
+> - Tipos lógicos;
+> - Caracteres;
+> - Objetos;
+> - Diferença entre variável e constante.
 ## Tipos e Variáveis 2
 ## Tipos e Variáveis 3
 ## Tipos e Variáveis 4
