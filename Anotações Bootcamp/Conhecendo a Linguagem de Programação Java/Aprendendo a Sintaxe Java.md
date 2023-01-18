@@ -89,5 +89,26 @@ String formatarCep (long cep)
 - **Convenção dos subdiretórios** - Prefixos aplicados nos projetos: Comercial = com; Organizacional = org; opensource = org ou opensource.
   - com(prefixo).hypertech(nome da empresa).notification.app/modelo/utilidade(pacote).
 ## Anatomia das Classes 6
+- **Java Beans** - Iniciativa conceitual da comunidade para que possa ter uma estruturação de escrita, de como expressar declarações de variáveis, classes, métodos, etc.  
+- Formas de escritas universal. Precisa de clareza na escrita do código.  
+1. Uma variável deve ser clara, sem abreviações ou definição sem sentido;  
+1. Uma variável é sempre no singular, exceto quando se referir a uma array ou coleção;  
+1. Defina um idioma único para suas variáveis.
+- **Métodos** - Devem ser nomeados como verbos, através de uma mistura de letras minúsculas e maiúsculas. Todas as primeiras letras minúsculas, com exceção da primeira letra de cada palavra composta a partir da segunda palavra. Ex: 
+```
+somar(int n1, int n2){}
+
+abrirConexao(){}
+
+concluirProcessamento(){}
+
+findById(int id){}
+
+calcularImprimir(){} // Há algo de errado neste método, ele deveria ter uma única finalidade. 
+```
+- O nome do último método estava sendo dúbio. Precisar ser "calcular" ou "imprimir".
 # Tipos e Variáveis
 ## Tipos e Variáveis 1
+## Tipos e Variáveis 2
+## Tipos e Variáveis 3
+## Tipos e Variáveis 4
